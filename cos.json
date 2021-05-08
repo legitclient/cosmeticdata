@@ -1,0 +1,20 @@
+[
+{
+"name": "twitch_jdkx32",
+"uuid": "5fd4a938-0e65-4867-bcf5-7d5541e42cb0",
+"enabled": "true",
+"cape-style": "CapeYeet",
+"cape-enabled": "true",
+"hat-enabled": "true",
+"hat-r": "255",
+"hat-g": "0",
+"hat-b": "0",
+"wings-enabled": "true",
+"wings-r": "100.1F",
+"wings-g": "0.1F",
+"wings-b": "0.1F",
+"glasses-enabled":"true",
+"eastereggs-enabled":"true",
+"susanoo-enabled":"true"
+}
+]
